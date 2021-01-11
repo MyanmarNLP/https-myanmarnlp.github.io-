@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/MyanmarNLP/myanmarnlp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+We are a community of Burmese Natural Language Processing (NLP) enthusiasts. Our mission is to advance Burmese language technology by creating resources in Burmese language, developing tools and models for Burmese language, and build a community of researchers and experts working on Burmese language technology. We are inspired by similar amazing communities such as [Masakhane](https://www.masakhane.io/) and [Turkic Interlingua](https://turkic-interlingua.org/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### Myanmar NLP Reading Group
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image of a library](https://lh4.googleusercontent.com/hqrujNYYJVC3Nz5Gr5KhlwB1Z4mMJJwItE7lZpOkTj0y8zIqGu5GGFMj78CPJpROanAUWWro0wGL4Fv7etORecmECsD1w_BBHniLNHT-L83W6QtVLSY=w1280)
+> This is a community-lead NLP study group inspired by the [WING Reading Goup at NUS](https://wing-nus.github.io/cs6101/). We will mainly follow the [Stanford NLP's CS224N](http://web.stanford.edu/class/cs224n/index.html#schedule) course materials, with slight modification. All the discussions will be in Burmese and videos of all the meetings will be posted on YouTube.
+> Check out our [course website](https://myanmarnlp.github.io/reading-group/) or [YouTube channel](https://www.youtube.com/channel/UCC0FoFXkaI7C9V9emgtUAdA/featured) to learn more.
 
-```markdown
-Syntax highlighted code block
+## Organizers
 
-# Header 1
-## Header 2
-### Header 3
+![Image of organizer: Aye Hninn Khine](./images/AHK_profile.jpg) | ![Image of organizer : Cho Zin Tun](./images/CZH_profile.jpg) | ![Image of organizer : Phu Mon Htut](./images/PMH_profile.jpg) | ![Image of organizer : Soe Lynn](./images/SL_profile.jpg)
+------------ | ------------- | ------------- | -------------
+[Aye Hninn Khine](https://www.linkedin.com/in/ayehninnkhine) 🇹🇭 | [Cho Zin Tun](https://www.linkedin.com/in/cho-zin-tun-9217a2a3) 🇸🇬 | [Phu Mon Htut](https://phumonhtut.me) 🇺🇸 | [Soe Lynn](https://www.linkedin.com/in/realsoelynn) 🇺🇸
+PhD Candidate | Data Scientist | PhD Candidate | Senior Software Engineer
+Prince of Songkla University | Visa | New York University | PayPal
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MyanmarNLP/myanmarnlp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### © Myanmar NLP Group.
